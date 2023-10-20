@@ -1,0 +1,5 @@
+{"reqSignature":{},"txn":{"data":{"alias":"efendi","dest":"FfvF2d2JEwLouSai5MBKo8","role":"0","verkey":"~A4pDjdJeQY89rFXPm5HUim"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":1},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"dest":"VMdbbCbR2SsY2ASie469L5","role":"2","verkey":"~P3V1rXLKAPUrbyv3WN6FS9"},"metadata":{"from":"FfvF2d2JEwLouSai5MBKo8"},"type":"1"},"txnMetadata":{"seqNo":2},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"dest":"U6fRR8pMUX9euMcpTXwRUr","role":"2","verkey":"~ZbXB1WCXeifjcmrVqgHZQ"},"metadata":{"from":"FfvF2d2JEwLouSai5MBKo8"},"type":"1"},"txnMetadata":{"seqNo":3},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"dest":"G2vrc2L6HCb67CnUMHABAU","role":"2","verkey":"~DCVt91kMedAJZdh2Fn54cx"},"metadata":{"from":"FfvF2d2JEwLouSai5MBKo8"},"type":"1"},"txnMetadata":{"seqNo":4},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"dest":"EsDd25Z1b9ME7EV4Ymwt3H","role":"2","verkey":"~FZFwfqjENG8bixPYwTpEwo"},"metadata":{"from":"FfvF2d2JEwLouSai5MBKo8"},"type":"1"},"txnMetadata":{"seqNo":5},"ver":"1"}

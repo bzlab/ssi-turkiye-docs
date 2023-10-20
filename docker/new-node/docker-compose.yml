@@ -1,0 +1,15 @@
+services:
+  newnode:
+    build:
+      context: .
+      dockerfile: Dockerfile.von
+    user: "root"
+    restart: always
+    volumes:
+      - publicnet_newnode_node_data:/home/indy/ledger
+    command: "start_indy_node ${NODE_NAME} 0.0.0.0 9709 0.0.0.0 9710"
+    network_mode: host # container network konfigurasyonu sizin ortaminiza gore olmali
+
+volumes:
+  publicnet_newnode_node_data:
+    external: true
